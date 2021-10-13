@@ -1,0 +1,9 @@
+JavaScript Page Redirect
+
+<script>
+    setTimeout(function(){   
+        window.location.assign("https://www.yazilimbilisim.net");
+        //3 saniye sonra yönlenecek
+        }, 3000);
+  </script>
+ 
